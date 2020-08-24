@@ -28,7 +28,32 @@ body{
 }
 
 .supervisor{
+    
     margin-top: 10%;    
+}
+
+.sub-super{
+    border-top: hsl(212, 86%, 64%) 5px solid;
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
+}
+
+.sub-team{
+    border-top: hsl(0, 78%, 62%) 5px solid;
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
+}
+
+.sub-karma{
+    border-top: hsl(34, 97%, 64%) 5px solid;
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
+}
+
+.sub-cal{
+    border-top: hsl(212, 86%, 64%) 5px solid;
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
 }
 
 
@@ -46,3 +71,7 @@ body{
 .text {
     font-weight: 200;
 }
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
